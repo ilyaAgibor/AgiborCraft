@@ -1,0 +1,97 @@
+﻿  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  AgiborNet.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\AgiborNet.cpp(48,26): warning C4101: 'sockaddr_ipv6': unreferenced local variable
+  Block.cpp
+  Camera.cpp
+  Chunk.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Chunk.cpp(191,52): warning C4244: 'argument': conversion from 'BlockType' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+  IndexBuffer.cpp
+  InstanceBuffer.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\InstanceBuffer.cpp(52,37): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  MVP.cpp
+  OGame.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\OGame.cpp(183,21): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  OWindow.cpp
+  Player.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(146,43): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(152,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(152,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(267,77): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(267,59): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(278,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(278,30): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(278,23): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(330,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(331,10): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(333,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(334,14): warning C4244: '=': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(344,15): warning C4244: '=': conversion from 'BlockType' to 'float', possible loss of data
+  Renderer.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Renderer.cpp(91,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Shader.cpp
+  Compiling...
+  Texture.cpp
+  TextureArray.cpp
+  TextureIndexBuffer.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\TextureIndexBuffer.cpp(42,33): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  VertexBuffer.cpp
+  VertexByfferLayout.cpp
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\VertexByfferLayout.cpp(47,164): warning C4312: 'type cast': conversion from 'int' to 'const void *' of greater size
+  World.cpp
+  stb_image.cpp
+  main.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB was built with incompatible compiler, fall back to full compilation.
+C:\Users\AdminPyton\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(352): warning C4715: 'Player::Break': not all control paths return a value
+  All 1623 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\AdminPyton\source\repos\AgiborCraft2.0\x64\Release\vc120.pdb'; linking object as if no debug info
+  AgiborCraft2.0.vcxproj -> C:\Users\AdminPyton\source\repos\AgiborCraft2.0\x64\Release\AgiborCraft2.0.exe

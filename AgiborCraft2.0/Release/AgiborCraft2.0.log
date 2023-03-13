@@ -1,0 +1,48 @@
+﻿  main.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\main.cpp(2,10): fatal  error C1083: Cannot open include file: 'OGL3D/OGame.h': No such file or directory
+  glm.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\include\glm\detail\glm.cpp(7,10): fatal  error C1083: Cannot open include file: 'glm/gtx/dual_quaternion.hpp': No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  AgiborNet.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\AgiborNet.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/AgiborNet.h': No such file or directory
+  Block.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Block.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Block.h': No such file or directory
+  Camera.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Camera.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Camera.h': No such file or directory
+  Chunk.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Chunk.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Chunk.h': No such file or directory
+  IndexBuffer.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\IndexBuffer.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/IndexBuffer.h': No such file or directory
+  InstanceBuffer.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\InstanceBuffer.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/InstanceBuffer.h': No such file or directory
+  MVP.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\MVP.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/MVP.h': No such file or directory
+  OGame.cpp
+  OWindow.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\OWindow.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/OWindow.h': No such file or directory
+  Player.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Player.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Player.h': No such file or directory
+  Renderer.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Renderer.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Renderer.h': No such file or directory
+  Compiling...
+  Shader.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Shader.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Shader.h': No such file or directory
+  Texture.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\Texture.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/Texture.h': No such file or directory
+  TextureArray.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\TextureArray.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/TextureArray.h': No such file or directory
+  TextureIndexBuffer.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\TextureIndexBuffer.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/TextureIndexBuffer.h': No such file or directory
+  VertexBuffer.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\VertexBuffer.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/VertexBuffer.h': No such file or directory
+  VertexByfferLayout.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\VertexByfferLayout.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/VertexBufferLayout.h': No such file or directory
+  World.cpp
+C:\Users\ilya\source\repos\AgiborCraft2.0\AgiborCraft2.0\OpenGl\source\OGL3D\World.cpp(1,10): fatal  error C1083: Cannot open include file: 'OGL3D/World.h': No such file or directory
+  stb_image.cpp
