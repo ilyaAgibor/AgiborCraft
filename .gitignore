@@ -1,8 +1,7 @@
 .vs/*
 
-Debug/*
-x64/*
-
-AgiborCraft2.0/x64/*
-AgiborCraft2.0/Release/*
+./Debug/*
+./x64/*
+./AgiborCraft2.0/x64/*
+/AgiborCraft2.0/Release/*
 
