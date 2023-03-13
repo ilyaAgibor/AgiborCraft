@@ -169,7 +169,7 @@ void Renderer::DrawSingleCube() {
 
 void Renderer::DrawPlayers(float x, float y, float z, float w)
 {
-	this->p_shader_player->SetUniformMat4f("pos", glm::rotate(glm::translate(glm::mat4(1), glm::vec3(x, y, z)), w, glm::vec3(0,0,1)));
+	this->p_shader_player->SetUniformMat4f("pos", glm::rotate(glm::translate(glm::mat4(1), glm::vec3(x, y, z)), glm::radians(w), glm::vec3(0, 0, 1)));
 	glDrawElements(GL_TRIANGLES, this->p_ibo_player->GetCount(), GL_UNSIGNED_INT, nullptr);
 }
 
