@@ -202,7 +202,7 @@ void OGame::Run()
 			mvp.PopMatrix();
 
 			glm::vec3 player_position = player.GetPosition();
-			network.Send(PLAYER_POS_PACKET, this->player_id, player_position.x, player_position.y, player_position.z, player.GetDirection().x);
+			network.Send(PLAYER_POS_PACKET, this->player_id, player_position.x, player_position.y, player_position.z, player.GetDirection().y);
 			if (break_packet.type != -1) {
 				break_packet.id = this->player_id;
 				network.Send(break_packet);
