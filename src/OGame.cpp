@@ -231,8 +231,12 @@ void OGame::Run()
 	//PlayerJoin(1, 0, 0, 0, 0);
 	Sleep(100);
 	PacketHandler();
-	if (!world_seed)
-		GenerateWorld();
+	if (!world_seed){
+		std::random_device dev;
+    	std::mt19937 rng(dev());
+    	std::uniform_int_distribution<std::mt19937::result_type> num(0,4294967295U); // distribution in range [1, 6]
+		GenerateWorld(num(rng));
+	}
 
 	World& world = *this->p_world;
 

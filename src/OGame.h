@@ -7,6 +7,7 @@
 #include <thread>
 #include <atomic>
 #include <mutex>
+#include <random>
 #include "OWindow.h"
 #include "Shader.h"
 #include "Texture.h"
