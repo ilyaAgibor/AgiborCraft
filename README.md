@@ -12,7 +12,7 @@ clone the repo
 make
 
 <h2>running the game</h2>
-/build/AgiborCraft.exe [player_id] (make sure all the players in the network use different ids)
+/build/AgiborCraft.exe [player_id]      //(make sure all the players in the network use different ids)
 
 then choose the local ip you want to play in (can use hamachi or your house network). you will play with all the players that are playing on the same LAN
 
